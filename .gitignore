@@ -1,0 +1,8 @@
+# Xcode User Settings
+xcuserdata/
+
+# CocoaPods
+
+Pods/
+*.xcworkspace
+*.lock
